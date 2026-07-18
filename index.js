@@ -45,9 +45,9 @@ button:hover {
 </head>
 
 <body>
-<h1>🚀 Good Night MAYOOKHA</h1>
+<h1>🚀 Good Night TEJU and MAYOOKHA REDDY</h1>
 
-<p>CI/CD using GitHub Actions</p>
+<p>sleep well</p>
 
 <p>Created by Siva</p>
 
